@@ -1,0 +1,1 @@
+DariusDev Mailer module generator
